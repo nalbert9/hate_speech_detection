@@ -1,2 +1,2 @@
-# hate_speech_detection
-Identify and classify toxic online comments
+# Hate_Speech_Detection
+Hate speech detection using Deep Learning
