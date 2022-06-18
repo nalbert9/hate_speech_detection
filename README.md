@@ -1,7 +1,7 @@
 # Hate Speech Detection using Deep Learning 
 
 ## Project Overview
-Toxicity online poses a serious challenge for platforms and publishers. In this work we use Transformers to develop tools that could help to improve online conversation. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions.
+The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. In this work we use Transformers to develop tools that could help to improve online conversation. 
 
 ## Project Structure
 The project is structured as a series of Jupyter notebooks:
