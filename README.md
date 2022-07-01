@@ -8,18 +8,15 @@ The project is structured as a series of Jupyter notebooks:
 
 __Notebook 0__ : The dataset;
 
-__Notebook 1__ : Load and pre-process the dataset;
+__Notebook 1__ : Training the Model;
 
-__Notebook 2__ : Training the Model;
-
-__Notebook 3__ : Load trained model and generate predictions.
+__Notebook 2__ : Load trained model and generate predictions.
 
 ## Installation
 
 1. Clone the project repo
 ```sh
 $ git clone https://github.com/nalbert9/hate_speech_detection.git
-$ pip install -r requirements.txt
 ```
 
 2. Install PyTorch 
@@ -27,6 +24,10 @@ $ pip install -r requirements.txt
 $ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 ```
 
+3. Install PyTorch Lighting
+```sh
+$ pip install pytorch-lightning
+```
 4. Install a few required pip packages
 ```sh
 $ pip install -r requirements.txt
